@@ -1,0 +1,12 @@
+{
+  "name": "matchStrings",
+  "lockfileVersion": 2,
+  "requires": true,
+  "main": "loops.js",
+  "type": "module",
+  "packages": {},
+  "scripts": {
+    "start": "node ./loops.js",
+    "start1": "node ./filter&include.js"
+  }
+}
